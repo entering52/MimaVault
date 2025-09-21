@@ -1,0 +1,42 @@
+{
+  "colors": {
+    "primary": "#5865F2",
+    "accent": "#cfd3ff",
+    "background": "#101014",
+    "surface": "#141420",
+    "error": "#ff5e5e",
+    "success": "#6eff8e"
+  },
+  "fonts": {
+    "family": "'Segoe UI', 'Microsoft Yahei', sans-serif",
+    "sizes": {
+      "small": 12,
+      "normal": 14,
+      "title": 15,
+      "large": 16
+    },
+    "weights": {
+      "normal": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    }
+  },
+  "spacing": {
+    "xs": 2,
+    "sm": 4,
+    "md": 6,
+    "lg": 8,
+    "xl": 10
+  },
+  "radius": {
+    "small": 4,
+    "medium": 6,
+    "large": 8
+  },
+  "background": {
+    "enabled": true,
+    "image_path": "",
+    "opacity": 50
+  }
+}

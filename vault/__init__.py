@@ -1,0 +1,1 @@
+# Package initializer for vault application
